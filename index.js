@@ -189,7 +189,8 @@ function main() {
             orientation: {
                 direction: direction,
                 up: up
-            }
+            },
+            maximumHeight: cameraCarto.height
         });
     }
 
